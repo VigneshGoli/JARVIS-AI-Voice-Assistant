@@ -22,7 +22,7 @@ A simple AI voice assistant built using Python. JARVIS can recognize voice comma
    pip install -r requirements.txt  
 3. Run the assistant
    ```sh
-   python jarvis.py  
+   python jarvis.py    
 
 ### Dependencies
 - pyttsx3 – Text-to-Speech conversion
