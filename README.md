@@ -11,6 +11,7 @@ A simple AI voice assistant built using Python. JARVIS can recognize voice comma
 - ⏰ **Time Query** – Tells the current time.  
 - 📧 **Email Sending** – Sends emails using Gmail SMTP.  
 
+
 ## Installation  
 
 1. **Clone this repository**  
