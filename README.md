@@ -8,9 +8,8 @@ A simple AI voice assistant built using Python. JARVIS can recognize voice comma
 - 🔍 **Wikipedia Search** – Fetches quick summaries.  
 - 🌐 **Web Navigation** – Opens YouTube, Google, Instagram, etc.  
 - 🎵 **Music Player** – Plays music from a specified folder.  
-- ⏰ **Time Query** – Tells the current time.  
+- ⏰ **Time Query** – Tells the current time. 
 - 📧 **Email Sending** – Sends emails using Gmail SMTP.
-
 
 ## Installation  
 
