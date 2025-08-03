@@ -16,7 +16,7 @@ A simple AI voice assistant built using Python. JARVIS can recognize voice comma
 1. **Clone this repository**  
    ```sh
    git clone https://github.com/yourusername/JARVIS-Voice-Assistant.git  
-   cd JARVIS-Voice-Assistant  
+   cd JARVIS-Voice-Assistant 
 2. Install dependencies
    ```sh
    pip install -r requirements.txt  
